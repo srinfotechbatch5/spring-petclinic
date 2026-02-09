@@ -11,7 +11,7 @@
   <version>4.0.0-SNAPSHOT</version>
    <packaging>war</packaging>
   <name>petclinic</name>
-
+<!-- welcome to SRINFOTECH AWS and Devops -->
   <properties>
     <!-- Generic properties -->
     <java.version>17</java.version>
