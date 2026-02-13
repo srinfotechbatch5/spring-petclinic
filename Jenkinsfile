@@ -4,7 +4,7 @@ pipeline {
     
     stages{
         
-         stage('SRINFOETCH'){
+         stage('SRINFOETCH POLL SCM'){
             steps{
                 git branch: 'feature/2026.02.06', url: 'https://github.com/srinfotechbatch5/spring-petclinic.git'
             }
